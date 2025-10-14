@@ -1,5 +1,5 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+# Laporan Praktikum Minggu 1
+Topik: Pendahuluan Pemrograman Berorientasi Objek (OOP) – Pendekatan Procedural, Functional, dan OOP
 
 ## Identitas
 - Nama  : Azzam Zain Zaidan Sudiyono
